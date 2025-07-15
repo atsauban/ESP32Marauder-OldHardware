@@ -3,4 +3,6 @@ This fork is optimized for ESP32 boards with limited RAM/flash and basic display
 
 ##Device Preview
 
-![ESP32 Marauder Old Hardware](device-old.jpg)
+<p align="center">
+  <img src="device-old.jpg" alt="ESP32 Marauder Old Hardware" width="350"/>
+</p>
